@@ -129,3 +129,5 @@ while len(strlist) < n:
     strlist.append(a)
 print(strlist)
 
+# 用户输入N个字符串，将这些字符串收集到列表中，然后取出其中重复的字符串后输出列表
+
