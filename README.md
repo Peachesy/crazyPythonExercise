@@ -1,3 +1,3 @@
 # crazyPythonExercise
-Exercise for my learning
+Exercise for my learning./n
 Please refer to package name.
