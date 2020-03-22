@@ -128,3 +128,4 @@ while len(strlist) < n:
     a=random.choice(s)
     strlist.append(a)
 print(strlist)
+
