@@ -229,3 +229,5 @@ for ele in letters:
     count_dict[ele]=count_dict.get(ele,0)+1
 print(count_dict)
 
+# 快速实现1+2+...+100，用列表推导式
+print("1+2+3+...+100：",sum([i for i in range(1,101)]))
